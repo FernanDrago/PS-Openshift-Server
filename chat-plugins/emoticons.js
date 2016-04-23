@@ -39,7 +39,7 @@ var emotes = {
 	'wtfman': 'http://i.imgur.com/kwR8Re9.png',
 	'xaa': 'http://i.imgur.com/V728AvL.png',
 	'yayface': 'http://i.imgur.com/anY1jf8.png',
-	'yesface': 'http://i.imgur.com/k9YCF6K.png'
+	'yesface': 'http://i.imgur.com/k9YCF6K.png',
 	'kappa': 'http://orig07.deviantart.net/de5d/f/2015/358/5/3/kappa_emote_by_xenoblast1-d9lc4i2.png'
 };
 
