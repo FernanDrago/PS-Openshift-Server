@@ -40,7 +40,9 @@ var emotes = {
 	'xaa': 'http://i.imgur.com/V728AvL.png',
 	'yayface': 'http://i.imgur.com/anY1jf8.png',
 	'yesface': 'http://i.imgur.com/k9YCF6K.png',
-	'kappa': 'http://orig07.deviantart.net/de5d/f/2015/358/5/3/kappa_emote_by_xenoblast1-d9lc4i2.png'
+	'(kappa)': 'http://orig07.deviantart.net/de5d/f/2015/358/5/3/kappa_emote_by_xenoblast1-d9lc4i2.png,
+	'(kapparainbow)': 'http://www.bravefrontierforum.net/data/avatars/m/49/49679.jpg?1445066325',
+	'(keepo)': 'http://a.deviantart.net/avatars/k/e/keepoplz.png?2'.
 };
 
 var emotesKeys = Object.keys(emotes);
